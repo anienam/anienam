@@ -1,7 +1,5 @@
 # Hi there, I'm Anienam-akan Udo! 👋
 
-<img src="https://i.postimg.cc/pX8SYSpf/Linkedin-profile-picture.png />
-
 ## About Me 🚀
 
 I'm a passionate **Front-End Developer** with experience in **responsive web design**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
