@@ -2,13 +2,13 @@
 
 ## About Me 🚀
 
-I'm a passionate **Front-End Developer** with experience in **responsive web design**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Front-End Developer** focused on building responsive, user-friendly, and impactful web experiences. I enjoy turning creative ideas into real-world projects and continuously expanding my skills through hands-on learning.
 
 - 🌱 Currently learning: **JavaScript and React with ALX**
-- 🔭 Working on: **Building a personal portfolio and landing page for a fintech app**
+- 🔭 Working on: **SkillLink – a platform connecting skilled workers with clients and agencies**
 - 🌍 Languages: **HTML, CSS, JS, REACT**
 - 📫 How to reach me: **anieemma25@gmail.com**
-- ⚡ Fun fact: **I support Manchester United**
+- ⚡ Fun fact: **I love building things that make people’s lives easier**
 
 ## My Skills 🧠
 
