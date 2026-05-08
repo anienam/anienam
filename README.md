@@ -57,8 +57,8 @@ A waste management platform designed to streamline environmental reporting and i
   * Mobile-responsive design with modern layout
 * 🎯 Focus: Dashboard design, real user workflows, and UI clarity
 
-👉 Live Demo: [https://thrashbeta.vercel.app](https://thrashbeta.vercel.app)
-👉 GitHub: [https://github.com/anienam/thrashbeta](https://github.com/anienam/thrashbeta)
+👉 Live Demo: [https://thrashbeta.vercel.app](https://trashbeta.vercel.app)
+👉 GitHub: [https://github.com/anienam/thrashbeta](https://github.com/anienam/trashbeta)
 
 ---
 
