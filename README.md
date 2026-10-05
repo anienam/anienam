@@ -5,7 +5,7 @@
 
 I build web experiences that turn designs and ideas into functional products.
 
-My journey has grown from translating Figma designs into interfaces ** to building frontend applications, contributing to real-world platforms, and now rebuilding and managing a production website with Next.js and TypeScript at Unitellas International. **
+My journey has grown from translating Figma designs into interfaces to building frontend applications, contributing to real-world platforms, and now rebuilding and managing a production website with Next.js and TypeScript at Unitellas International. 
 
 I also volunteer with **Flama Tech**, where I built the frontend of a Computer-Based Testing platform for schools.
 
