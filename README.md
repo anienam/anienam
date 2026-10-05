@@ -1,111 +1,167 @@
-# Hi there, I'm Anienamakan Udo 👋
+# Hi, I'm Anienamakan Udo 👋
 
-## 🚀 Frontend Developer | React | Open to Junior & Internship Roles
+### Frontend Developer
+**React · Next.js · TypeScript**
 
-I'm a **Frontend Developer based in Nigeria**, building responsive and user-focused web applications with **HTML, CSS, JavaScript, and React**.
+I build web experiences that turn designs and ideas into functional products.
 
-I focus on creating real-world solutions and continuously improving my skills through hands-on projects and collaboration.
+My journey has grown from translating Figma designs into interfaces** o building frontend applications, contributing to real-world platforms, and now rebuilding and managing a production website with Next.js and TypeScript at Unitellas International**.
 
----
-
-## 💼 What I'm Working On
-
-* 🔭 Building real-world products with **Flama Tech**
-* ♻️ Developed **TrashBeta** – a waste management platform with real user flows
-* 🔗 Building **SkillLink** – connecting skilled workers with clients and agencies
-* 🎯 Actively applying for **Junior / Internship Frontend roles (Nigeria & Remote)**
+I also volunteer with **Flama Tech**, where I built the frontend of a Computer-Based Testing platform for schools.
 
 ---
 
-## 🧠 Tech Stack
+## 💼 Experience
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+### 🌐 Unitellas International — Frontend Developer
+
+**June 2026 – Present · Lagos, Nigeria**
+
+I rebuilt and currently manage the company's corporate website using **Next.js and TypeScript**, taking ownership of the website's frontend development, from implementation through ongoing maintenance.
+
+- Rebuilt the corporate website with **Next.js, TypeScript, and Tailwind CSS**.
+- Translate Figma designs and business requirements into production-ready interfaces.
+- Develop and maintain reusable frontend components and page structures.
+- Implement content updates, new pages, UI improvements, and website enhancements.
+- Work across the website's content, navigation, blog, and other digital experiences.
+- Improve frontend performance, accessibility, and overall site quality.
+- Collaborate with stakeholders to turn business and design requirements into practical web solutions.
+
+🔗 [Unitellas Website](https://www.unitellas.com.ng/)
 
 ---
 
-## 🔥 Featured Projects
+### 🤝 Flama Tech — Volunteer Frontend Developer
 
-### 🔗 SkillLink
+**2025 – Present**
 
-A platform connecting skilled workers with clients, NGOs, and government agencies to improve access to verified services.
+Contributing to the development of a school-focused **Computer-Based Testing (CBT) platform**, building interfaces and interactive workflows for different users within the system.
 
-* ⚛️ Built with: React, JavaScript, CSS
-* 🔧 Features:
+- Built the **Student Portal** from Figma designs using HTML, CSS, and Vanilla JavaScript.
+- Developed examination workflows including countdown timers, question navigation, answer auto-save, and submission flows.
+- Built student dashboard, profile, examination, and report interfaces.
+- Contributed to the **Teacher Portal** and public-facing website.
+- Worked on interfaces for a multi-role platform involving students, teachers, principals, and administrators.
 
-  * User-friendly interface for service discovery
-  * Structured layout for different user types (clients & workers)
-  * Responsive design across devices
-* 🎯 Focus: Real-world problem solving, usability, and accessibility
+---
 
-👉 Live Demo: [https://anienam.github.io/SkillLink-Vephla-Project/](https://anienam.github.io/SkillLink-Vephla-Project/)
-👉 GitHub: [https://github.com/anienam/SkillLink-Vephla-Project](https://github.com/anienam/SkillLink-Vephla-Project)
+## 🛠 Tech Stack
+
+### Languages
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+### Frameworks & Libraries
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+**Other:** REST API Integration · Component-Based Architecture · UI Implementation · Frontend Performance · Accessibility · Cross-Browser Development
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Unitellas International Website
+
+A production corporate website rebuilt and maintained for **Unitellas International**, an enterprise cloud infrastructure provider serving businesses across Africa.
+
+**Built with:** Next.js · TypeScript · Tailwind CSS
+
+- Rebuilt the website architecture and frontend experience.
+- Developed reusable components and page layouts.
+- Implemented responsive pages from design and business requirements.
+- Manage ongoing website development, content updates, and UI improvements.
+- Contribute to the site's performance, accessibility, and overall frontend quality.
+
+🔗 [Live Website](https://www.unitellas.com.ng/)
+
+---
+
+### 📝 Flama Tech — CBT Platform
+
+A school-focused **Computer-Based Testing platform** designed to support digital examinations and multiple user roles.
+
+**Built with:** HTML · CSS · Vanilla JavaScript
+
+- Student authentication and dashboard.
+- Examination interface with countdown timer.
+- Question navigation and answer management.
+- Automatic answer saving.
+- Exam submission and confirmation workflows.
+- Student reports and examination results interface.
+- Teacher and public-facing platform interfaces.
+
+🔗 [GitHub Repository](https://github.com/anienam/cbt-project)
 
 ---
 
 ### ♻️ TrashBeta
 
-A waste management platform designed to streamline environmental reporting and improve service efficiency for residents and agencies.
+A smart waste management and reporting platform designed to connect residents, workers, and administrators through dedicated workflows.
 
-* 🛠 Built with: HTML, CSS, JavaScript
-* 🔧 Features:
+**Built with:** HTML · CSS · JavaScript
 
-  * Resident dashboard interface
-  * Clean and structured UI for reporting and tracking
-  * Mobile-responsive design with modern layout
-* 🎯 Focus: Dashboard design, real user workflows, and UI clarity
+- Developed interfaces across multiple user roles.
+- Built dashboard workflows for residents, workers, and administrators.
+- Implemented reporting and tracking interfaces.
+- Implemented 40+ responsive screens across multiple user roles.
 
-👉 Live Demo: [https://thrashbeta.vercel.app](https://trashbeta.vercel.app)
-👉 GitHub: [https://github.com/anienam/thrashbeta](https://github.com/anienam/trashbeta)
-
----
-
-### 🌐 Personal Portfolio
-
-A clean and responsive portfolio website showcasing my projects, skills, and development journey.
-
-* 🛠 Built with: HTML, CSS, JavaScript
-* 🔧 Features:
-
-  * Fully responsive design
-  * Smooth navigation and clean layout
-  * Optimized for performance and readability
-* 🎯 Focus: Simplicity, user experience, and accessibility
-
-👉 Live Site: [anienam.vercel.app](anienam.vercel.app)
-👉 GitHub: [https://https://github.com/anienam/portfolio](https://https://github.com/anienam/portfolio)
+🔗 [Live Demo](https://trashbeta.vercel.app/)  
+🔗 [GitHub Repository](https://github.com/anienam/thrashbeta)
 
 ---
 
-👉 *More projects available in my repositories*
+### 🔗 SkillLink
+
+A platform designed to connect skilled practitioners with clients, NGOs, and government agencies.
+
+**Built with:** React · JavaScript · CSS
+
+- Service discovery interfaces.
+- Client and worker-focused user flows.
+- Reusable UI components.
+- Frontend implementation from design concepts.
+
+🔗 [Live Demo](https://anienam.github.io/SkillLink-Vephla-Project/)  
+🔗 [GitHub Repository](https://github.com/anienam/SkillLink-Vephla-Project)
 
 ---
 
-## 📈 What I'm Looking For
+### 👨🏽‍💻 Personal Portfolio
 
-I'm open to:
+My personal portfolio documenting my development journey, projects, and technical work.
 
-* Junior Frontend Developer roles
-* Internship opportunities
-* Remote or Nigeria-based positions
+**Built with:** HTML · CSS · JavaScript
 
----
-
-## 📫 Let's Connect
-
-* Email: **[anieemma25@gmail.com](mailto:anieemma25@gmail.com)**
-* GitHub: [https://github.com/anienam](https://github.com/anienam)
-* Portfolio: [anienam.vercel.app](anienam.vercel.app)
+🔗 [Live Portfolio](https://anienam.vercel.app/)  
+🔗 [GitHub Repository](https://github.com/anienam/portfolio)
 
 ---
 
-## ⚡ Quick Note
+## 🎯 Currently
 
-I’m actively building, collaborating, and improving every day.
-If you're looking for a developer who can **learn fast, build real products, and contribute to a team**, I’d love to work with you.
+- Building and maintaining production web experiences with **Next.js and TypeScript**.
+- Deepening my skills in **React, TypeScript, and modern frontend architecture**.
+- Contributing to the **Flama CBT platform** while continuing to build practical frontend products.
 
 ---
 
+## 📫 Connect
+
+- **Email:** [anieemma25@gmail.com](mailto:anieemma25@gmail.com)
+- **LinkedIn:** [linkedin.com/in/anienam](https://linkedin.com/in/anienam)
+- **GitHub:** [github.com/anienam](https://github.com/anienam)
+- **Portfolio:** [anienam.vercel.app](https://anienam.vercel.app/)
 
